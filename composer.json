@@ -1,0 +1,17 @@
+{
+    "name": "db/sql-packge",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Db\\SqlPackge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yossef-ashraf",
+            "email": "yossefff2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
